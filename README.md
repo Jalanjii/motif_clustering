@@ -8,7 +8,7 @@ One of the biggest obstacles for retailers is to identify and act on the changin
 
 Attached is the jupyternote book `motif_clustering.ipynb` for the project walkthrough. To run it:
  
-- install the packages: `pip -m requirements.txt`
+- install the packages: `pip install -r requirements.txt`
 
 ## References:
 
